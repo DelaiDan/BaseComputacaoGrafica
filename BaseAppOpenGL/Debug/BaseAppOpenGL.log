@@ -1,0 +1,19 @@
+﻿  CCamera.cpp
+D:\Documentos\Computacao_Grafica\BaseAppOpenGL_T3821\BaseAppOpenGL\CCamera.cpp(237,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CModel_3DS.cpp
+  CShaderManager.cpp
+  CTerreno.cpp
+  CTexto.cpp
+  CTexture.cpp
+  CTimer.cpp
+  GLTexture.cpp
+  Helpers.cpp
+D:\Documentos\Computacao_Grafica\BaseAppOpenGL_T3821\BaseAppOpenGL\Helpers.h(1,13): warning C4081: expected 'newline'; found ';'
+  Main.cpp
+D:\Documentos\Computacao_Grafica\BaseAppOpenGL_T3821\BaseAppOpenGL\Main.cpp(182,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Scene1.cpp
+  Scene2.cpp
+  SceneBaseClass.cpp
+  SceneManager.cpp
+  Generating Code...
+  BaseAppOpenGL.vcxproj -> D:\Documentos\Computacao_Grafica\BaseAppOpenGL_T3821\Debug\BaseAppOpenGL.exe
